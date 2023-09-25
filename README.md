@@ -7,7 +7,7 @@ Bu programlama kampı için 2 kaynaktan ilerleyeceğim ve düzenli olarak öğre
 
 [Python | Anlaşılır Ekonomi | Youtube](https://www.youtube.com/playlist?list=PLK8LlaNiWQOusZmEzLunxfgti9-ciRuXe)
 
-Hadi o zaman başlayalım 
+Hadi o zaman başlayalım! 
 
 ![resim](emoji3.png)
 
