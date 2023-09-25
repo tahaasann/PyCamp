@@ -9,6 +9,6 @@ Bu programlama kampı için 2 kaynaktan ilerleyeceğim ve düzenli olarak öğre
 
 Hadi o zaman başlayalım! 
 
-![resim](emoji3.png)
+![resim](emoji.png)
 
 [1. Gün](/Gün1/GUN1.md) 
