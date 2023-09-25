@@ -11,4 +11,4 @@ Hadi o zaman başlayalım
 
 ![resim](emoji3.png)
 
-Gün 1: 
+[1. Gün](/Gün1/GUN1.md) 
